@@ -4,4 +4,6 @@ Format: As a [type of user], I want [goal], so that [reason or benefit].
 
 1. As a student , I want to be succesfull, so that i can get a job.
 2. As a programmer, I want to graduate, so that many job will take me.
+1. As a student, I want degree, so that money.
+2. As a coder, I want job, so that money.
 3. As a ..., I want ..., so that ...
