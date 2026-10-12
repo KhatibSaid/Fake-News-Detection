@@ -1,8 +1,8 @@
 # Requirements
 
 ## Functional requirements (what the system must DO)
-1. The system shall working
-2. The system shall happenning
+1. The system shall workings
+2. The system shall happennings
 3. The system shall ...
 4. The system shall ...
 5. The system shall ...
