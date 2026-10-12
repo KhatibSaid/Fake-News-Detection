@@ -1,13 +1,13 @@
 # Requirements
 
 ## Functional requirements (what the system must DO)
-1. The system shall work
-2. The system shall happen
+1. The system shall working
+2. The system shall happenning
 3. The system shall ...
 4. The system shall ...
 5. The system shall ...
 
 ## Non-functional requirements (how the system must PERFORM)
-1. The system shall work in 1 seconds (include a number, for example "within 2 seconds")
-2. The system shall run in 100 seconds
+1. The system shall work in 12 seconds (include a number, for example "within 2 seconds")
+2. The system shall run in 200 seconds
 3. The system shall ...
